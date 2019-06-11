@@ -1,7 +1,6 @@
 # Crypto
 
-Crypto is an app for a group of **cryptocurrency** lovers. It allows them see recent currency updates, login to their **Coinpot** Account and manage their **Paxful** Wallet.
-<a href='https://play.google.com/store/apps/details?id=com.jetechunlimited.jcrypto'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=90px/></a>
+Crypto is an app for a group of **cryptocurrency** lovers. It allows them see recent currency updates, login to their **Coinpot** Account and manage their **Paxful** Wallet. [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.jetechunlimited.jcrypto)
 
 ## Features
 
